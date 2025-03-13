@@ -112,7 +112,7 @@ If you encounter issues:
 4. Check the VSCode output panel for any error messages
 
 ## Contributing
-Here are [Vscodes commands](https://github.com/microsoft/vscode-docs/blob/main/api/references/commands.md?plain=1) if you want to add additional functionality go ahead. I think we still need rename and a few others.
+
 Please feel free to submit issues or pull requests to the [GitHub repository](https://github.com/biegehydra/csharplangmcpserver).
 
 ## License
