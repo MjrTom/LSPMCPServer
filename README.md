@@ -15,12 +15,6 @@ This VS Code extension provides a Model Context Protocol (MCP) server that expos
 - **HTTP/SSE Server**: Exposes language features over an MCP-compatible HTTP server
 - **AI Assistant Integration**: Ready to work with AI assistants that support the MCP protocol
 
-## Usage
-
-
-https://github.com/user-attachments/assets/06ddc1e8-52ee-4eaf-9187-daf451f0b1f5
-
-
 ## Available Tools
 
 The extension provides access to many VSCode language features including:
