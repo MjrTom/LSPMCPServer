@@ -77,7 +77,7 @@
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.20.2",
     "@types/cors": "^2.8.17",
-    "@types/express": "^5.0.5",
+    "@types/express": "^5.0.6",
     "cors": "^2.8.5",
     "express": "^5.2.1",
     "vscode-jsonrpc": "^8.2.1",
