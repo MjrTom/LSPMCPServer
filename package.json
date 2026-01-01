@@ -82,6 +82,6 @@
     "express": "^5.2.1",
     "vscode-jsonrpc": "^8.2.1",
     "zod": "^4.1.12",
-    "zod-to-json-schema": "^3.24.6"
+    "zod-to-json-schema": "^3.25.1"
   }
 }
