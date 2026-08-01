@@ -75,7 +75,7 @@
     "webpack-cli": "^7.0.0"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.27.1",
+    "@modelcontextprotocol/sdk": "^1.30.0",
     "@types/cors": "^2.8.17",
     "@types/express": "^5.0.6",
     "cors": "^2.8.5",
